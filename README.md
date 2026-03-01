@@ -7,11 +7,11 @@
 
 ### 🛠 Featured Projects
 
-**[Speech-to-Diagram](https://github.com/alnosarus/diagram)** — Speak a description, get an interactive 3D math/physics diagram controlled with hand gestures
-**[Clone Me](https://github.com/alnosarus/uchicago_hack)** — Upload a resume + photo, get a personal website with a voice-powered AI clone _(UChicago Hackathon w/ MLH, Google, ElevenLabs)_
-**[Maple](https://github.com/alnosarus/copymaple)** — MCP server for agent observability, safety control, and behavior evolution — "Sentry + Git" for AI agents
-**[Polynode](https://github.com/alnosarus/polynode)** — Predictive infrastructure intelligence powered by Graph Attention Networks and causal discovery
-**[Mirror](https://github.com/alnosarus/Mirror)** — 3D infrastructure visualization for the LA area using Overture Maps data
+**[Speech-to-Diagram](https://github.com/alnosarus/diagram)** — Speak a description, get an interactive 3D math/physics diagram controlled with hand gestures<br>
+**[Clone Me](https://github.com/alnosarus/uchicago_hack)** — Upload a resume + photo, get a personal website with a voice-powered AI clone _(UChicago Hackathon w/ MLH, Google, ElevenLabs)_<br>
+**[Maple](https://github.com/alnosarus/copymaple)** — MCP server for agent observability, safety control, and behavior evolution — "Sentry + Git" for AI agents<br>
+**[Polynode](https://github.com/alnosarus/polynode)** — Predictive infrastructure intelligence powered by Graph Attention Networks and causal discovery<br>
+**[Mirror](https://github.com/alnosarus/Mirror)** — 3D infrastructure visualization for the LA area using Overture Maps data<br>
 **[Tweet Stance in 3D](https://github.com/alnosarus/x.com-in-3d-space)** — Visualize tweet stances, political bias, and factuality as a 3D point cloud _(SNU Research, Summer 2025)_
 
 ### 🔧 Technical Skills
