@@ -7,6 +7,7 @@
 
 ### 🛠 Featured Projects
 
+**[UChicago E-mart](https://github.com/alnosarus/uchicago_emart)** — Student-only marketplace for UChicago with housing, storage match, and verified `@uchicago.edu` sign-in — live at [uchicagoemart.com](https://www.uchicagoemart.com)<br>
 **[Maple](https://github.com/alnosarus/copymaple)** — MCP server for agent observability, safety control, and behavior evolution — "Sentry + Git" for AI agents<br>
 **[Polynode](https://github.com/alnosarus/polynode)** — Predictive infrastructure intelligence powered by Graph Attention Networks and causal discovery<br>
 **[Mirror](https://github.com/alnosarus/Mirror)** — 3D infrastructure visualization for the LA area using Overture Maps data<br>
