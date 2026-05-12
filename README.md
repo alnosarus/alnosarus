@@ -1,9 +1,8 @@
 # Hi, I'm Alex Hyungwoo Noh!
 
 🎓 &nbsp; Computer Science @ University of Chicago · Chicago, IL
-💡 &nbsp; Interests: AI agents, 3D visualization, voice interfaces, and building things that feel like magic
-🌱 &nbsp; Currently exploring: MCP tooling, graph neural networks, and real-time speech pipelines
-🚀 &nbsp; Working on: [Polynode](https://github.com/alnosarus/polynode) — predictive infrastructure intelligence that forecasts supply chain cascades & [Maple](https://github.com/alnosarus/copymaple) — "Sentry + Git" for AI agents
+💡 &nbsp; Interests: AI agents and 3D/Algorithmic visualization
+
 
 ### 🛠 Featured Projects
 
